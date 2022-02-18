@@ -171,7 +171,7 @@ require([
   // Also used by the home button
   var camera = new Camera({
     position: [
-      -90.688, // longitude
+      -90.685, // longitude
       38.053, // latitude
       3500// elevation in meters
     ],
