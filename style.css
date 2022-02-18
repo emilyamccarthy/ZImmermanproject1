@@ -1,0 +1,47 @@
+h1 {
+  color: #3D3D3D;
+  margin-left:5%;
+  font-family: verdana;
+}
+
+h2 {
+  color: #3D3D3D;
+  margin-left:5%;
+  font-family: verdana;
+}
+
+p {
+  color: #3D3D3D;
+  margin-left:5%;
+  font-family: garamond;
+  font-size: 60%;
+}
+
+p1 {
+  text-align: center;
+  color: #3D3D3D;
+  font-family: garamond;
+  font-size: 120%;
+}
+
+#washMap { 
+  height: 500px; 
+  margin-left: 5%;
+  width: 90%;
+}
+
+html,
+body,
+#washMap2 { 
+  height: 500px; 
+  margin-left: 5%;
+  width: 90%;
+}
+
+html,
+body,
+#washMap3 { 
+  height: 600px; 
+  margin-left: 5%;
+  width: 90%;
+}
